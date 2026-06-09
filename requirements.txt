@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# This project uses Python's standard library and a local Ollama server.
